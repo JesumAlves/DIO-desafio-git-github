@@ -1,11 +1,11 @@
 # DIO-desafio-git-github
 Desafio de Projeto
-=>Estudos:
-1-Pensamento Computacional
+=>Estudos
+-1-Pensamento Computacional
 *Juliana Mascarenhas
-2-Lógica de Programação
+-2-Lógica de Programação
 *Denilson Bonatti
-3-Git-Github
+-3-Git-Github
 *Otavio Reis
-4-Projetos Ágeis com SCRUM
+-4-Projetos Ágeis com SCRUM
 *Thiago Sano/Diego Pereira
