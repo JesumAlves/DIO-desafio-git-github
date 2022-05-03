@@ -1,0 +1,22 @@
+    #Conceito: Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritimos que podem ser implementados no computador(formulação e resolução de problemas).
+Os quatro pilares do pensamento computacional são:
+*decomposição = Dividir um problema complexo em subproblemas.
+Como decompor-- 
+Deixar o problema principal em segundo plano e entender o problema,
+identificar os componentes= papel de cada componente= interdependencia das peças.
+*Reconhecimento de padrões = Identificar padrões ou tendências(similaridades ou diferenças entre os problemas).
+Modelo base=estrutura invariante=repetição.
+O computador reconhece padrões, representação de atributos, aprendizado, conceito associado ao objeto, armazenar dados, regras de decisão.
+*Abstração= Extrapolar o conceito do problema para uma forma generalista.
+Processo intelectual de isolamento de um objeto da realidade.
+Generalizar= Tornarse geral.
+*Algoritimos= Processamento de dados, resolver os problemas "step by step " utilizando instruções.
+Algoritimo descreve o problema por meio de ferramentas;
+Codificado de acordo com a linguagem de programação desejada;
+Sequencia de passos com objetivo bem definido.
+*Processo continuo= Definir uma solução, testar a solução, aperfeiçoamento da solução encontrada.
+   #Raciocínio Loógico: É uma forma de pensamento estruturado ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+Classificação: 
+*Indução= fenomeno observado= indução= leis e teorias (investigação)= descobertas. Quando otimizamos o processo economizamos recursos.
+*Dedução= Leis e teorias= dedução= previsões e explicações.
+*Abdução= Conclusão= premissa.

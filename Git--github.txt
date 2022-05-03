@@ -1,0 +1,19 @@
+#git= Nasceu do descontentamento de Linus torvalds.
+*Sha1= É um conjunto de funções hash criptografadas pela NASA(Gera um conjunto unico de 40 caracteres ).
+*Blobs= Os arquivos ficam guardados neles.
+*tree= Armazenam blobs= aponta para um blob.
+   *Windows
+*cd= caminho
+*dir=listar
+*mkdir=criar pasta
+*del/rmdir=deletar
+*cls=limpar terminal
+*cd..=voltat um nivel
+*ls/q =remover repositório
+   *git 
+*git init=iniciar repositório do git
+*git add=mover
+*git commit=criar commit
+*ls=listar
+#Markdown= È uma forma humana de escrever em codigo
+*github= repositório remoto=comunidade de devs.

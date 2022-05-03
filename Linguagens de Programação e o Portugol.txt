@@ -1,0 +1,6 @@
+# È uma escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas.
+* O que é obvio para ti não é obvio para uma máquina, e se tu queres que ela faça algo, precisa falar com ela.
+* Os dois tipos de linguagem:
+*Alto Nivel= Muito proximo da nossa linguagem.*Baixo nivel= Se aproxima da linguagem da maquina.
+*Compiladas= O computador executa atraves de compilação.*Imterpretada= O codigo fonte é executado por um programa.
+# Portugol= É uma pseudolinguagem que permite ao leitor desenvolvedor algoritimos em português, não depende de linguagem.

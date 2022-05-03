@@ -1,0 +1,13 @@
+#SCRUM= É um dos frameworks de gerenciamento de projetos ágeis.
+*Gestão de projeto tradicional(waterfal):só permite que o projeto avance quando uma fase esta inteiramente completa
+*Gestão de projetos Ágil: Software construido por partes(incremental) e cada parte executa um ciclo.
+Ágil é diferente de rapido 
+*Fazer coisas complexas de forma simples.
+*Maior valor para o cliente.
+*Pilares= Tranparencia, Adaptação, inspeção.
+# Papeis e Responsabilidades
+*Product Owner(PO)= Representante da área de negócios
+*scrum master(SM)= Garantir o uso correto do (scrum) é um facilitador.
+*Time de desenvolvimento(dev)= Possui habilidade para desenvolver, testar, criar e desenhar, ou seja tudo que for necessário para entregar o software funcionando.
+Time Box= tempo maximo parafazer uma cerimonia.
+Sprint= Corrida arrancada=30 dias ou menos=ágil=entrega o minimo necessário para agregar maio valor.
